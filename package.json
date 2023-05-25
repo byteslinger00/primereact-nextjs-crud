@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-crud",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "12.3.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-transition-group": "^4.4.5",
+    "primereact": "^8.5.0",
+    "primeicons": "^5.0.0",
+    "primeflex": "^3.2.1"
+  },
+  "devDependencies": {
+    "eslint": "8.23.0",
+    "eslint-config-next": "12.3.0"
+  }
+}
